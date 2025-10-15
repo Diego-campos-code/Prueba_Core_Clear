@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kPM/TOo0nf0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INFORMATICA9.OC\\Desktop\\Clean Arquitecture\\EasyPOS\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INFORMATICA9.OC\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\INFORMATICA9.OC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\INFORMATICA9.OC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
